@@ -37,7 +37,7 @@ git clone https://github.com/debrajroyofficial000/Sketchy-Art.git
 
 ## Demo
 
-You can see a live demo of Sketchy Art [here]().
+You can see a live demo of Sketchy Art [here](https://663bc763462d131c588f0f48--sketchyart.netlify.app/).
 
 ## Preview
 
